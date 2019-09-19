@@ -40,7 +40,7 @@
       <br>
       <p><a href="ydelser.php">Ydelser</a></p>
       <br>
-      <p><a href="om os.php">Om os</a></p>
+      <p><a href="ommig.php">Om mig</a></p>
       <br>
       <p><a href="kontakt.php">Kontakt</a></p>
       
@@ -51,12 +51,13 @@
   <a href="index.php#">Forside</a>
   <a href="galleri.php">Galleri</a>
   <a href="ydelser.php">Ydelser</a>
-  <a href="om os.php">Om os</a>
+  <a href="ommig.php">Om mig</a>
   <a href="kontakt.php">Kontakt</a>
 </div>
 <div class="middle-bg">
 
 </div>
+<br>
 <br>
 </body>
 </html>

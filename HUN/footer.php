@@ -13,7 +13,7 @@
         <a href="index.php#">Forside</a>
         <a href="galleri.php">Galleri</a>
         <a href="ydelser.php">Ydelser</a>
-        <a href="om os.php">Om os</a>
+        <a href="ommig.php">Om mig</a>
         <a href="kontakt.php">Kontakt</a>
         </div>
         <div class="footright">
@@ -22,7 +22,7 @@
         <p>29 47 00 23</p>
         </div>
         <div class="footallright">
-        <p>Butik / Værksted</p>
+        <p>Værksted</p>
         <p>Grønnegade 26</p>
         <p>1107 København</p>
         </div>

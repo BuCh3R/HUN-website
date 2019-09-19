@@ -1,18 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="style.css">
-</head>
+
 <header>
-        <div class="h1-underline">
-        <h1>Hans Ulrik Nielsen</h1>       
+
+        <div class="center-mid headline-division">
+            <img src="img/nyhl.png">
         </div>
-    <h2>Guldsmed & Juveller</h2>
+<!-- <h1>
+    <img class="thelogo" src="img/hunlogo.png" alt="HUN logo"> Hans Ulrik Nielsen 
+        <img class="thebar" src="img/blackbar.png" alt="HUN logo"><img class="thebar" src="img/blackbar.png" alt="HUN logo">
+                <span> 
+                    Guldsmed & Juveller 
+                </span>
+            <img class="thebar" src="img/blackbar.png" alt="HUN logo">
+</h1>   -->
+
+      
+             
 </header>
-<body>
-    
-</body>
-</html>
