@@ -10,6 +10,7 @@ include 'header.php';
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
     <link href="https://fonts.googleapis.com/css?family=Dancing+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Courgette&display=swap" rel="stylesheet">
     <!-- <script type="text/javascript" src="script.js"> -->
     <title>HUN | Galleri</title>
     <script>
@@ -101,7 +102,7 @@ function showSlides(n) {
 <p class="padding">Lorem Ipsum er ganske enkelt fyldtekst fra print- og typografiindustrien. Lorem Ipsum har været standard fyldtekst siden 1500-tallet.</p>
 
 <div id="smyk1" class="epic-div">
-<div class="text overpos">Vedhæng</div>
+<div class="text overpos">Vedhæng &nbsp; <a href="vedhæng.php"> Se flere...</a></div>
     <img src="img/kædesq1.png" alt="HUN Vedhæng">
     <img src="img/kædesq2.png" alt="HUN Vedhæng">
     <img src="img/kædesq3.png" alt="HUN Vedhæng">
@@ -109,7 +110,7 @@ function showSlides(n) {
 </div>
 <br>
 <div id="smyk2" class="epic-div">
-<div class="text overpos">Ringe</div>
+<div class="text overpos">Ringe &nbsp; <a href="ringe.php"> Se flere...</a></div>
     <img src="img/ringsq1.png" alt="HUN Ring">
     <img src="img/ringsq2.png" alt="HUN Ring">
     <img src="img/ringsq3.png" alt="HUN Ring">

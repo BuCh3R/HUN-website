@@ -49,7 +49,7 @@ function initMap(){
     <p>Åbningstider</p>
     <p>Man, Tir, Tor 07:30-16:00</p>
     <p>Fre 07:30-15:00</p>
-    <p>Ons, Lør, Søn lukket</p>
+
     </div>
     <div class="doorimg">
     <img src="img/opendoors.png" alt="">

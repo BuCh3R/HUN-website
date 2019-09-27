@@ -1,9 +1,6 @@
 <?php
 include 'Menu.php';
 include 'header.php';
-
-
-
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -17,8 +14,7 @@ include 'header.php';
     <link href="https://fonts.googleapis.com/css?family=Tinos&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Tinos&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans|Tinos&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Raleway:700&display=swap" rel="stylesheet">
-    
+    <link href="https://fonts.googleapis.com/css?family=Raleway:700&display=swap" rel="stylesheet">   
     <title>HUN | Forside</title>
 </head>
 <body>
@@ -52,9 +48,7 @@ include 'header.php';
             </div>
             <img src="img/værkstedfp.png" alt="Hans Ulrik Nielsen guldsmedværksted">
         </div>
-    </div>   
+    </div>
+<?php include 'footer.php'; ?>   
 </body>
-<?php
-include 'footer.php';
-?>
 </html>
